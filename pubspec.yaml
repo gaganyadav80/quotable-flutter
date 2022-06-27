@@ -1,7 +1,7 @@
 name: quotable
 description: Quotable is a free, open source quotations API.
 version: 0.0.1
-homepage: https://github.com/gaganyadav80/quotable/
+homepage: https://github.com/gaganyadav80/quotable-flutter/
 
 environment:
   sdk: ">=2.17.3 <3.0.0"

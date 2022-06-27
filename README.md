@@ -89,4 +89,4 @@ void main() async {
 
 ## Additional information
 
-If you find any issues or want to contribute then please feel free to open an issues or a discussion [here](https://github.com/gaganyadav80/quotable)
+If you find any issues or want to contribute then please feel free to open an issues or a discussion [here](https://github.com/gaganyadav80/quotable-flutter/)
