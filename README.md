@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-This package uses a free and opensource quotation API called [Quotable](https://github.com/lukePeavey/quotable).
+This package (unofficial) uses a free and opensource quotation API called [Quotable](https://github.com/lukePeavey/quotable).
 
 ## Features
 
