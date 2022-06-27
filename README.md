@@ -80,10 +80,10 @@ If you are confused about `page` and `limit` or how they work together then read
 ```dart
 // get random - Quote()
 void main() async {
-    Quote quoteRamdon = await Quotable().getRandom();
-    List<Quote> listQuotes = await Quotable().getListQuotes(limit: 5);
-    List<Quote> queryQuote = await Quotable().searchQuotes(query: 'wisdom', limit: 5);
-    List<Author> queryAuthor = await Quotable().searchAuthor(query: 'einstein');
+    Quote quoteRamdon = await Quotable.getRandom();
+    List<Quote> listQuotes = await Quotable.getListQuotes(limit: 5);
+    List<Quote> queryQuote = await Quotable.searchQuotes(query: 'wisdom', limit: 5);
+    List<Author> queryAuthor = await Quotable.searchAuthor(query: 'einstein');
 }
 ```
 
