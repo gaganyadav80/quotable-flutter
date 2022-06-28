@@ -17,6 +17,8 @@ This package (unofficial) uses a free and opensource quotation API called [Quota
 
 Get a random quote, list of quotes or search them as query by quotes and authors. You can also use tags to filter quotes and sort or order them as per the parameters.
 
+<img width="230" alt="Screenshot 2022-06-27 at 19 20 52" src="https://user-images.githubusercontent.com/47142137/176159935-c2a8b6ba-c607-4bd8-aecd-1fc3ba44c2e1.png">
+
 ## Getting started
 
 - Quote Model
