@@ -1,5 +1,5 @@
-name: quotable
-description: Quotable is a free, open source quotations API.
+name: quotable_flutter
+description: Wrapper around Quotable, which is a free and open source quotations API.
 version: 0.0.1
 homepage: https://github.com/gaganyadav80/quotable-flutter/
 

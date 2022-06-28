@@ -1,4 +1,4 @@
-library quotable;
+library quotable_flutter;
 
 export 'src/author_model.dart';
 export 'src/enums.dart';

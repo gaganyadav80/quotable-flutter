@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quotable/quotable.dart';
+import 'package:quotable_flutter/quotable_flutter.dart';
 
 void main() {
   runApp(const MyApp());
